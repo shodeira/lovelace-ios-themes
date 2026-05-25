@@ -855,6 +855,9 @@ ios-dark-mode-dark-blue:
   ha-color-primary-80: "#99ddfb"
   ha-color-primary-90: "#cceefd"
   ha-color-primary-95: "#e6f7fe"
+  # Fix Bubble Card Button Visibility
+  bubble-sub-button-background-color: rgba(255, 255, 255, 0.12)
+  bubble-icon-button-background-color: rgba(255, 255, 255, 0.12)
 
 #
 # iOS Light Mode Theme - dark-green
