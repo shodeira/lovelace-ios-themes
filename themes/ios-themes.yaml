@@ -858,6 +858,9 @@ ios-dark-mode-dark-blue:
   # Fix Bubble Card Button Visibility
   bubble-sub-button-background-color: rgba(255, 255, 255, 0.12)
   bubble-icon-button-background-color: rgba(255, 255, 255, 0.12)
+  # Fix Bubble Card Dropdown (Select) – deckender Menü-Hintergrund
+  bubble-select-list-background-color: var(--card-background-color)
+  bubble-select-list-item-accent-color: rgba(3, 169, 244, 0.35)
 
 #
 # iOS Light Mode Theme - dark-green
